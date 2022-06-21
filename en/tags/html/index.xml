@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on Hazel&#39;s Life Adventure</title>
+    <link>https://hazelisles.github.io/en/tags/html/</link>
+    <description>Recent content in html on Hazel&#39;s Life Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hazelisles.github.io/en/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ringfit Fanpage</title>
+      <link>https://hazelisles.github.io/en/project/ringfit/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hazelisles.github.io/en/project/ringfit/</guid>
+      <description>Source Code at Github
+This small responsive page only use HTML and CSS. I made it for ICS118 mid-term project, but it was also my first time using video tag in HTML.
+I learned how to do media query and z-index better through making this webpage. It was a good practice at that time.
+The video used in the project come from Offical Nintendo Youtube Channel
+Click me or the image below to see real DEMO</description>
+    </item>
+    
+  </channel>
+</rss>

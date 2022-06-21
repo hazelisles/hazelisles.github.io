@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>網頁 on Hazel&#39;s Life Adventure</title>
+    <link>https://hazelisles.github.io/tw/tags/%E7%B6%B2%E9%A0%81/</link>
+    <description>Recent content in 網頁 on Hazel&#39;s Life Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hazelisles.github.io/tw/tags/%E7%B6%B2%E9%A0%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>健身環粉絲頁</title>
+      <link>https://hazelisles.github.io/tw/project/ringfit/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hazelisles.github.io/tw/project/ringfit/</guid>
+      <description> Source Code at Github
+這是一個簡單的響應式單頁網站，只使用了 HTML 和 CSS。 這個網頁是 ICS118 這門課的期中專案。
+在製作過程又再次練習了 CSS 的排版、媒體查詢、z-index，並且第一次在 HTML 使用了影片 tag，是一段不錯的學習。
+專案使用之影片來自 任天堂的官方 Youtube 頻道
+點我 或 下方 DEMO 圖案檢視專案
+Demo icons created by Freepik - Flaticon</description>
+    </item>
+    
+    <item>
+      <title>簡單版推特</title>
+      <link>https://hazelisles.github.io/tw/project/simpletwitter/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hazelisles.github.io/tw/project/simpletwitter/</guid>
+      <description> Source Code at Github
+第一次經歷多人協作，藉由這次經驗，更了解怎麼處理衝突的程式碼、怎麼設分支進行開發再 pull request 進行合併、review 程式碼給予回饋等等。
+我主要的分配任務包括  註冊、登入、登出的頁面及功能 後臺管理的所有頁面及功能，查看使用者、管理員狀態，刪除特定 tweet 等等 協助優化所有頁面呈現一致風格及增加支援不同大小螢幕的呈現(RWD) 彈跳視窗的切版 個人資料設定與更新的功能  專案使用的主要工具包括 前端：HTML5, CSS3, Bootstrap5, JavaScript, handlebars
+後端：Express.js, sequelize, MySQL, bcryptjs, session, passport
+其他：socket.io, Heroku
+完整的心路歷程分享於我的 Medium  點我 或 下方 DEMO 圖案檢視專案
+Demo icons created by Freepik - Flaticon</description>
+    </item>
+    
+  </channel>
+</rss>

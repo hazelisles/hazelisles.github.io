@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Hazel&#39;s Life Adventure</title>
+    <link>https://hazelisles.github.io/en/tags/javascript/</link>
+    <description>Recent content in JavaScript on Hazel&#39;s Life Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hazelisles.github.io/en/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple Twitter</title>
+      <link>https://hazelisles.github.io/en/project/simpletwitter/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hazelisles.github.io/en/project/simpletwitter/</guid>
+      <description>Source Code at Github
+This is my first collaborative project. I worked with 2 teammates in 2 weeks implementing Agile Approach for developing a MVP (Minimum Viable Product) responsive social website which the main idea and design are trying to clone basic feature of twitter.
+In this experience, I learned:  How to deal with conflicting code How to create branch to develop features then pull request on github asking review and merge to main project Review teammates&amp;rsquo; code and give feedback  My main assignments include:  Features and front-end pages of register, login, logout All pages and functions of back management stage such as view all users and administrator status, delete specific tweets, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

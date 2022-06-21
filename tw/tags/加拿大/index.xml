@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>加拿大 on Hazel&#39;s Life Adventure</title>
+    <link>https://hazelisles.github.io/tw/tags/%E5%8A%A0%E6%8B%BF%E5%A4%A7/</link>
+    <description>Recent content in 加拿大 on Hazel&#39;s Life Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hazelisles.github.io/tw/tags/%E5%8A%A0%E6%8B%BF%E5%A4%A7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>加拿大2&#43;3 - Camosun College 資訊電腦系統科技都在學什麼？</title>
+      <link>https://hazelisles.github.io/tw/blog/canada-01/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hazelisles.github.io/tw/blog/canada-01/</guid>
+      <description>不知不覺就過完第一學年了！明年就要畢業了，兩年真的不長。先分享下加拿大的學期制吧！
+基本上，一年分為 3 個學期。
+ Fall Semester(秋學期): 9~12 月 Winter Semester(冬學期): 1~4 月 Summer Semester(夏學期): 5~8 月  大部分課程從秋學期開始，但也有可能冬學期或夏學期開始，要看各學校各系別的課程安排。夏學期不一定會有課程安排，學生可以自主安排要打工、做義工、實習或各種其他活動。另外，若是有選課，夏學期也有特別分是 7 週課程或 14 週課程，如果只選了 7 週課程，代表課程 6 月就會結束，7、8 月則是暑假。
+資訊電腦系統科技(Information Computer System Technology)的第一年 Fall Semester ICS 110 - Computer Technology Essentials 這門課沒什麼好說的，就是很無聊的基本中的基本。電腦科學發展的歷史、硬體軟體的一些基礎概念、網路及作業系統的發展、隱私權及電腦安全、解決問題及除錯的思考步驟等等。
+使用線上教科書 zybook，每週讀一個章節。實驗課，主要是 Word, Power Point, Excel 這 3 個最主要的 office 軟體的基礎操作。應該跟台灣的電腦通識課蠻像的。我是覺得超級簡單，但也真的有學生完全沒用過這些軟體。之前才看到一則報導，在說日本企業有個新難題是新進的新鮮人不會使用電腦，因為一切作業報告論文都能用手機完成。看完這篇報導，突然理解這門課的重要性了 😂
+ICS 113 - Operating Systems and Architecture 安裝設定作業系統，學習由終端機命令電腦，架設虛擬系統，設定防火牆，遠端操作另一個作業系統等等。
+一開始可能會蠻恐慌的，但會越來越上手的，實驗課最好把所有覺得自己會忘記的部分都筆記下來，因為下學期的課會建立在這個基礎上繼續深入，一些指令會持續使用。
+需要自備一個至少容量 16G 的 microSD 卡，作為 pi(樹莓派)的硬體。實驗課會需要用 python 寫一些小程式控制 pi，感應溫度或按按鈕，使不同顏色的 LED 燈亮暗等等，很有意思。</description>
+    </item>
+    
+  </channel>
+</rss>

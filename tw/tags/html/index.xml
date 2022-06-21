@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on Hazel&#39;s Life Adventure</title>
+    <link>https://hazelisles.github.io/tw/tags/html/</link>
+    <description>Recent content in html on Hazel&#39;s Life Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hazelisles.github.io/tw/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>健身環粉絲頁</title>
+      <link>https://hazelisles.github.io/tw/project/ringfit/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hazelisles.github.io/tw/project/ringfit/</guid>
+      <description> Source Code at Github
+這是一個簡單的響應式單頁網站，只使用了 HTML 和 CSS。 這個網頁是 ICS118 這門課的期中專案。
+在製作過程又再次練習了 CSS 的排版、媒體查詢、z-index，並且第一次在 HTML 使用了影片 tag，是一段不錯的學習。
+專案使用之影片來自 任天堂的官方 Youtube 頻道
+點我 或 下方 DEMO 圖案檢視專案
+Demo icons created by Freepik - Flaticon</description>
+    </item>
+    
+  </channel>
+</rss>
