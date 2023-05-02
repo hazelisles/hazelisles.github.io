@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hazelisles.github.io/tw/tags/3&#43;2/</loc>
-    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hazelisles.github.io/tw/blog/</loc>
-    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +16,7 @@
                 />
   </url><url>
     <loc>https://hazelisles.github.io/tw/</loc>
-    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,7 +29,7 @@
                 />
   </url><url>
     <loc>https://hazelisles.github.io/tw/tags/</loc>
-    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,12 +42,21 @@
                 />
   </url><url>
     <loc>https://hazelisles.github.io/tw/tags/%E5%8A%A0%E6%8B%BF%E5%A4%A7/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hazelisles.github.io/tw/blog/canadatax/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hazelisles.github.io/tw/tags/%E5%A0%B1%E7%A8%85/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hazelisles.github.io/tw/tags/%E7%95%99%E5%AD%B8/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hazelisles.github.io/tw/tags/3&#43;2/</loc>
     <lastmod>2022-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hazelisles.github.io/tw/blog/canada-01/</loc>
-    <lastmod>2022-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hazelisles.github.io/tw/tags/%E7%95%99%E5%AD%B8/</loc>
     <lastmod>2022-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hazelisles.github.io/tw/page/</loc>

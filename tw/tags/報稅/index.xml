@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>報稅 on Hazel&#39;s Life Adventure</title>
+    <link>https://hazelisles.github.io/tw/tags/%E5%A0%B1%E7%A8%85/</link>
+    <description>Recent content in 報稅 on Hazel&#39;s Life Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hazelisles.github.io/tw/tags/%E5%A0%B1%E7%A8%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>加拿大國際學生的第一次報稅</title>
+      <link>https://hazelisles.github.io/tw/blog/canadatax/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hazelisles.github.io/tw/blog/canadatax/</guid>
+      <description>說到報稅，基本上不是使用紙本進行申報，就是運用一些報稅軟體做電子線上申報。
+報稅軟體 很多種，有免費的也有需要付費的。
+最常聽到的是使用 Turbo Tax ，也聽過同學使用 Studio Tax 。 但是如果要申報 Donation 的話, Turbo Tax 就必須選擇付費版本。
+Studio Tax 則是要年收入 CA$20,000 以下才能免費使用，完全無法長久使用。
+而 WealthSimple，我個人是聞之已久。
+例如使用 WealthSimple 進行北美股票投資簡單快速手續費低，是多年前就聽 Youtuber 介紹過的。
+而使用 WealthSimple Tax 進行報稅，介面清晰易懂，新手友善，也有多名 Youtuber 清楚介紹如何使用。以下是 Howard 在 2022 年的介紹：
+  我個人有在教會奉獻，有 Donation 部分，所以最後選擇使用 WealthSimple Tax。
+到底第一次報稅可不可以線上報, 還是必須郵寄紙本報稅? 簡單來說當 CRA (Canada Revenue Agency) 沒有你的檔案時，就無法線上報稅。
+類似線上送出報稅檔案，在資料庫卻找不到對應的人，因此出現錯誤的感覺。
+而 CRA 官網也不允許沒有任何檔案的人進行註冊。
+所以通常會說第一次必須紙本印出郵寄至各省對應的稅務中心進行報稅。
+那要如何讓 CRA 有你的檔案呢？ 我自己是先寄出了 GST/HST credit apply form，只有兩張 A4，相對於寄出一疊報稅資料便宜很多。
+GST/HST credit 是甚麼可以參考以下網頁：</description>
+    </item>
+    
+  </channel>
+</rss>
